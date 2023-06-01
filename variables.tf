@@ -13,5 +13,5 @@ variable "assign_name" {
 }
 variable "name" {
  type  = string
- description = "Name of the Policy Definition"
+ description = "Name of the Policy Definition under policy"
 }
